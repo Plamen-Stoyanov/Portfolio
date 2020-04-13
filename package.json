@@ -1,7 +1,7 @@
 {
-  "name": "aaron_pietsch",
+  "name": "plamen_stoyanov",
   "version": "1.0.0",
-  "description": "Aaron Pietsch",
+  "description": "Plamen Stoyanov",
   "main": "index.js",
   "scripts": {
     "compile:sass": "node-sass sass/main.scss css/style.css -w"
